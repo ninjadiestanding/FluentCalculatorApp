@@ -11,8 +11,4 @@
     <Compile Remove="FluentCalculator1.cs" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Include="FluentCalculator.sln" />
-  </ItemGroup>
-
 </Project>
